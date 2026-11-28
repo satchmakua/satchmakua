@@ -17,4 +17,6 @@ For 2 years I did that at Synopsys for a chip-design group. These days I'm build
 | [Manifold](https://github.com/satchmakua/manifold-cov) | Coverage-driven testing for AI agents. It caught smolagents retrying a dead tool until it burned its whole step budget. | `pip install manifold-cov` |
 | [Verderer](https://github.com/satchmakua/verderer) | A tamper-evident record of US government environmental web pages that anyone can check in their browser. | [see it live](https://verderer.satchelhamilton.com) |
 
+**Contributing to:** [Bevy](https://github.com/bevyengine/bevy/pulls?q=is%3Apr+author%3Asatchmakua) · [Black](https://github.com/psf/black/pulls?q=is%3Apr+author%3Asatchmakua) · [EleutherAI lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/pulls?q=is%3Apr+author%3Asatchmakua)
+
 [satchelhamilton.com](https://satchelhamilton.com) · [LinkedIn](https://www.linkedin.com/in/satchel-hamilton)
